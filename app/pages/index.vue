@@ -194,7 +194,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col items-center px-4 pt-20">
+  <div class="min-h-screen flex flex-col items-center justify-center px-4">
     <div
       v-show="isDragActive"
       class="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm pointer-events-none"
