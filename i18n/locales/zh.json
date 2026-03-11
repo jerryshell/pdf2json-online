@@ -1,0 +1,21 @@
+{
+  "seo": {
+    "title": "PDF 转 JSON｜在线免费转换",
+    "description": "一键将 PDF 转成 JSON，快速、安全。"
+  },
+  "tabs": {
+    "result": "结果",
+    "api": "API"
+  },
+  "labels": {
+    "drop_hint": "拖放 PDF 或点击选择",
+    "converting": "转换中...",
+    "api_intro": "用 API 程序化转换：",
+    "api_short": "或直接用 API："
+  },
+  "messages": {
+    "copied": "已复制",
+    "conversion_failed": "转换失败，请重试",
+    "invalid_file": "仅支持 PDF 文件"
+  }
+}

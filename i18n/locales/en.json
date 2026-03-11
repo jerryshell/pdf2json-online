@@ -1,0 +1,21 @@
+{
+  "seo": {
+    "title": "PDF to JSON — Free Online Converter",
+    "description": "Convert PDF to JSON in seconds. Fast and secure."
+  },
+  "tabs": {
+    "result": "Result",
+    "api": "API"
+  },
+  "labels": {
+    "drop_hint": "Drop a PDF or click to choose",
+    "converting": "Converting...",
+    "api_intro": "Use the API for programmatic conversion:",
+    "api_short": "Or use the API:"
+  },
+  "messages": {
+    "copied": "Copied",
+    "conversion_failed": "Conversion failed. Try again.",
+    "invalid_file": "PDF files only"
+  }
+}
