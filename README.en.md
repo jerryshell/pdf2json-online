@@ -4,7 +4,7 @@
 
 Serverless PDF to JSON tool w/ easy HTTP POST API
 
-Use now https://pdf2json-online.jerryshell.workers.dev
+Use now https://pdf2json-online.vercel.app
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jerryshell/pdf2json-online)
 

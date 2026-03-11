@@ -4,7 +4,7 @@
 
 无服务器 PDF 转 JSON 工具附带简单 HTTP POST API
 
-立刻使用 https://pdf2json-online.jerryshell.workers.dev
+立刻使用 https://pdf2json-online.vercel.app
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/jerryshell/pdf2json-online)
 
