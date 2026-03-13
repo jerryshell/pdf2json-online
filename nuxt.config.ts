@@ -4,15 +4,15 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/ui", "@nuxtjs/i18n"],
   css: ["~/assets/css/main.css"],
+  ui: {
+    fonts: false,
+  },
   i18n: {
-    strategy: "no_prefix",
     defaultLocale: "en",
+    strategy: "no_prefix",
     locales: [
       { code: "en", name: "English", file: "en.json" },
       { code: "zh", name: "中文", file: "zh.json" },
     ],
-  },
-  ui: {
-    fonts: false,
   },
 });
